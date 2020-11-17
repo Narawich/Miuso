@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.RhythmGamePlugin.cppa7.o",
+		"Module.RhythmGamePlugin.cppa8.o",
+		"Module.RhythmGamePlugin.gen.cppa7.o",
+		"Module.RhythmGamePlugin.gen.cppa8.o"
+	]
+}
